@@ -9,11 +9,11 @@ HillClimber process
 
 A single hillclimber will eventually reach a peak where changing any individual gene will only decrease the fitness. This does not mean it has the optimal solution but does mean it would take multiple gene changes in one go to find a more optimal solution.
 
-                                                                      Example of a single hillclimber
+      Example of a single hillclimber
 
 ![](./images/singleHillClimber.png)
 
-                                                                      Example of a series of hillclimbers
+      Example of a series of hillclimbers
 
 ![](./images/multipleHillClimber.png)
 
