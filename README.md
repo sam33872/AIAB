@@ -33,4 +33,29 @@ A Genetic Algorithm is a way of solving both constrained and unconstrained optim
 
       Vehicles
 
+There were 4 main types of vehicles approached in this assignment
 
+      
+      Aggressor
+     
+![](./images/aggressor.png)
+
+      Coward
+     
+![](./images/coward.png)
+
+      Explorer
+     
+![](./images/explorer.png)
+
+      Lover
+     
+![](./images/lover.png)
+
+      Single Eyed Phototaxis
+      
+A further advancement made in this module was looking at single eyed phototaxis
+
+![](./images/singleEyedPhototaxis.png)
+
+![](./images/singleEyedPhototaxis2.png)
