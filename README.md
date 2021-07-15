@@ -41,7 +41,7 @@ There were 4 main types of vehicles approached in this assignment
 
       Coward
      
-![](./images/coward.png)
+![](./images/coward1.png)
 
       Explorer
      
@@ -49,7 +49,7 @@ There were 4 main types of vehicles approached in this assignment
 
       Lover
      
-![](./images/lover.png)
+![](./images/lover1.png)
 
       Single Eyed Phototaxis
       
