@@ -34,7 +34,6 @@ A Genetic Algorithm is a way of solving both constrained and unconstrained optim
       Vehicles
 
 There were 4 main types of vehicles approached in this assignment
-
       
       Aggressor
      
